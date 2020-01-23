@@ -1,0 +1,2 @@
+# kaggle_santa2019_youtube
+kaggle santa 2019コンペの解説動画で使ったコード
